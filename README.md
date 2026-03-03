@@ -27,7 +27,15 @@ MIDIToolkit provides a high‑level, Pythonic interface for reading, transformin
 
 ## Installation
 
-MIDIToolkit requires only Python 3. Download the two core files and place them in your project directory or Python path:
+MIDIToolkit requires only Python 3
+
+Install via pip
+
+```python
+!pip install midipytoolkit
+```
+
+Or download the two core files and place them in your project directory or Python path:
 
 - [`MIDI.py`](https://github.com/asigalov61/MIDIToolkit/blob/main/MIDI.py) — classic MIDI parser  
 - [`MIDIToolkit.py`](https://github.com/asigalov61/MIDIToolkit/blob/main/MIDIToolkit.py) — enhanced toolkit
@@ -126,4 +134,5 @@ This project is open source. The original `MIDI.py` module is by Peter Billam an
 ### Project Los Angeles  
 
 ### Tegridy Code 2026
+
 
