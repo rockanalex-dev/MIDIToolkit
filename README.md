@@ -2,6 +2,10 @@
 
 ## **Enhanced MIDI manipulation library with immutable, chainable operations built on the classic MIDI.py module by Peter Billam**
 
+<img width="1024" height="1024" alt="Copilot_20260302_161630" src="https://github.com/user-attachments/assets/8b4c7d4d-7da3-47d9-adc0-a14dd581a90d" />
+
+---
+
 MIDIToolkit provides a high‑level, Pythonic interface for reading, transforming, and writing MIDI files. It wraps the classic `MIDI.py` parser with a modern layer of immutable objects, event wrappers, track abstractions, tempo mapping utilities, and a plugin system designed for expressive, safe, and reusable MIDI processing workflows.
 
 ---
@@ -111,4 +115,5 @@ This project is open source. The original `MIDI.py` module is by Peter Billam an
 ---
 
 ### Project Los Angeles  
+
 ### Tegridy Code 2026
