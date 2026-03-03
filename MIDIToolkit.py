@@ -73,7 +73,7 @@ from typing import (
     Any, Callable, Dict, Iterable, Iterator, List, Optional, Set, Tuple, Union, Type
 )
 
-from . import MIDI  # classic MIDI.py module
+import MIDI  # classic MIDI.py module
 
 # ----------------------------------------------------------------------
 # Constants
@@ -987,3 +987,4 @@ class MIDIFile:
     def __str__(self) -> str:
 
         return self.info()
+
