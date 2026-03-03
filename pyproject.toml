@@ -1,0 +1,78 @@
+[build-system]
+requires = ["setuptools>=82.0.0", "wheel", "build"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "MIDIpyToolkit"
+version = "26.3.7"
+description = "Enhanced MIDI manipulation library with immutable, chainable operations built on the classic MIDI.py module by Peter Billam"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+authors = [
+  { name = "Alex Lev", email = "alexlev61@proton.me" }
+]
+maintainers = [
+  { name = "Alex Lev", email = "alexlev61@proton.me" }
+]
+dependencies = [
+  "midirenderer"
+]
+
+keywords = [
+	"MIDI",
+	"music",
+	"MIR",
+	"toolkit",
+	"classes",
+	"symbolic music",
+	"music information retrievaly",
+	"MIDI API",
+	"MIDI toolkit",
+	"MIDI classes",
+	"MIDI music",
+        "MIDI manipulation",
+        "MIDI abstraction",
+        "MIDI reader",
+        "MIDI processor",
+        "MIDI processing"
+]
+
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Education",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Multimedia :: Sound/Audio",
+  "Topic :: Multimedia :: Sound/Audio :: MIDI",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Scientific/Engineering :: Information Analysis",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+  "Environment :: Console",
+  "Natural Language :: English",
+  "Typing :: Typed"
+]
+
+requires-python = ">=3.8"
+
+[project.readme]
+file = "MIDIToolkit/README.md"
+content-type = "text/markdown"
+
+[project.urls]
+Homepage = "https://github.com/asigalov61/MIDIToolkit"
+Documentation = "https://github.com/asigalov61/MIDIToolkit"
+Issues = "https://github.com/asigalov61/MIDIToolkit/issues"
+Discussions = "https://github.com/asigalov61/MIDIToolkit/discussions"
+Dataset = "https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset"
+SoundCloud = "https://soundcloud.com/aleksandr-sigalov-61"
+
+[tool.setuptools.packages.find]
+include = ["MIDIToolkit"]

@@ -1,0 +1,2 @@
+include MIDIToolkit/README.md
+recursive-include MIDIToolkit/ *
