@@ -45,6 +45,8 @@ r'''############################################################################
 ###################################################################################
 '''
 
+from __future__ import annotations
+
 ###################################################################################
 
 __version__ = "26.3.2"
@@ -62,7 +64,6 @@ Provides:
 - MIDIFile façade with immutable, chainable transformations
 """
 
-from __future__ import annotations
 import copy
 import sys
 import shutil
@@ -72,7 +73,7 @@ from typing import (
     Any, Callable, Dict, Iterable, Iterator, List, Optional, Set, Tuple, Union, Type
 )
 
-import MIDI  # classic MIDI.py module
+from . import MIDI  # classic MIDI.py module
 
 # ----------------------------------------------------------------------
 # Constants

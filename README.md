@@ -29,7 +29,7 @@ MIDIToolkit provides a high‑level, Pythonic interface for reading, transformin
 
 MIDIToolkit requires only Python 3
 
-Install via pip
+Install via pip:
 
 ```python
 !pip install midipytoolkit
