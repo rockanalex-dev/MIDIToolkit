@@ -108,6 +108,15 @@ MIDIToolkit/
 
 ---
 
+## Attribution and acknowledgements
+
+* MIDIToolkit class was passinatelly vibe-coded together with [Microsoft Copilot](https://copilot.microsoft.com/) and [DeepSeek AI](https://chat.deepseek.com/)
+* README.md and EXAMPLES.md were co-written using Microsoft Copilot and DeepSeek AI
+* Artwork was created with Microsoft Copilot
+* Original MIDI.py module is a courtesy of [Peter Billam](https://peterbillam.gitlab.io/miditools/)
+
+---
+
 ## License
 
 This project is open source. The original `MIDI.py` module is by Peter Billam and contributors; enhancements are provided under the same spirit of free use. See source files for individual notices.
@@ -117,3 +126,4 @@ This project is open source. The original `MIDI.py` module is by Peter Billam an
 ### Project Los Angeles  
 
 ### Tegridy Code 2026
+
